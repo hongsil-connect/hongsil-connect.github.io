@@ -109,10 +109,10 @@ body{
 }
 
 .header .logo img{
-    width: 50px; /* Set the maximum width to 100% of the parent container */
+    width: 100px; /* Set the maximum width to 100% of the parent container */
   height: auto; /* Automatically adjust the height to maintain aspect ratio */
-  display: block; /* Remove any extra spacing or borders around the image */
-  margin: 0 auto; /* Center the image horizontally */
+/*  display: block; /* Remove any extra spacing or borders around the image */*/
+/*  margin: 0 auto; /* Center the image horizontally */*/
 
 
   /*  width: 130%;
