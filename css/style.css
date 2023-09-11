@@ -109,10 +109,16 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
+     max-width: 100%; /* Set the maximum width to 100% of the parent container */
+  height: auto; /* Automatically adjust the height to maintain aspect ratio */
+  display: block; /* Remove any extra spacing or borders around the image */
+  margin: 0 auto; /* Center the image horizontally */
+
+
+  /*  width: 130%;
     height: 3rem;
     top: 0;
-    left: 0;
+    left: 0*/;
 }
 
 .header .navbar ul{
