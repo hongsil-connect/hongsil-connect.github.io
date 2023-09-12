@@ -38,8 +38,8 @@ body{
 }
 
 .faq .heading::before, .faq .heading::after{
-    border-top: .4rem solid #00bfff;
-    border-left: .4rem solid #00bfff;
+    border-top: .4rem solid #F8A0A4;
+    border-left: .4rem solid #F8A0A4;
 }
 
 .heading::before, .clients .section-header h2::before, .section-head h1::before, .testimonials .section-header h2::before, .section-head-1 h4::before{
@@ -607,11 +607,11 @@ body{
 }
 
 .team .heading{
-    color: #00bfff;
+    color: #F8A0A4;
 }
 
 .team .heading::before, .team .heading::after{
-    border-color: #00bfff;
+    border-color: #F8A0A4;
 }
 
 .team .row{
@@ -660,7 +660,7 @@ body{
 
 .team .row .card .info span{
     font-size: 1.8rem;
-    color: #00bfff;
+    color: #F8A0A4;
 }
 
 .team .row .card .info .icons a{
@@ -703,7 +703,7 @@ body{
 }
 
 .team .row .card::before{
-    background: #00bfff;
+    background: #F8A0A4;
     top: -3rem;
     right: -4rem;
 }
@@ -868,7 +868,7 @@ body{
             font-size: 18px;
             display: inline-block;
             background: #ffffff;
-            color: #00bfff;
+            color: #F8A0A4;
             line-height: 1;
             padding: 9px 0;
             margin-right: 4px;
@@ -879,7 +879,7 @@ body{
         }
         
         .footer .footer-top .social-links a:hover {
-            background: #00bfff;
+            background: #F8A0A4;
             color: #ffffff;
         }
         
@@ -931,7 +931,7 @@ body{
         }
         
         .footer .footer-top .footer-links ul a:hover {
-            color: #00bfff;
+            color: #F8A0A4;
         }
         
         .footer .footer-top .footer-contact p {
@@ -961,8 +961,8 @@ body{
         
         .footer .footer-top .footer-newsletter input[type="submit"]:hover {
             color: #ffffff;
-            background: #00bfff;
-            border: 1px solid #00bfff;
+            background: #F8A0A4;
+            border: 1px solid #F8A0A4;
             letter-spacing: .2rem;
         }
         
@@ -990,7 +990,7 @@ body{
         .back-to-top {
             position: fixed;
             display: none;
-            background-color: #00bfff;
+            background-color: #F8A0A4;
             color: #ffffff;
             width: 45px;
             height: 45px;
@@ -1039,7 +1039,7 @@ body{
         }
         
         .faq .row .accordion-container .accordion .accordion-header{
-            background-color: #00bfff;
+            background-color: #F8A0A4;
             margin: 1rem 0;
             box-shadow: .1rem .1rem .3rem rgba(0,0,0,.3);
             cursor: pointer;
@@ -1104,7 +1104,7 @@ body{
     }
 
     .header .fa-bars:hover{
-        color: #00bfff;
+        color: #F8A0A4;
     }
 
     .header .navbar{
