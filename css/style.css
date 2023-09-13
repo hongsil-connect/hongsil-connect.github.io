@@ -110,7 +110,8 @@ body{
 
 .header .logo img{
     width: 100px;
-    height: auto;
+/*    height: auto;*/
+    height: 100px;
     display: block; 
     left: 100px; 
 
