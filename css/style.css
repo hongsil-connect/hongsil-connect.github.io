@@ -109,9 +109,9 @@ body{
 }
 
 .header .logo img{
-    width: 200px;
+    width: 100px;
 /*    height: auto;*/
-    height: 100px;
+    height: 100px;;
     display: block; 
     left: 100px; 
 
